@@ -21,7 +21,6 @@ except ImportError:
  
 import os
 import sys
-import ​time
 import ​request
 import random
 import ​platfor
